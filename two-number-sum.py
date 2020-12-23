@@ -1,5 +1,5 @@
 '''
-if any two numbers in the input arrat sum up to a target sum,
+if any two numbers in the input array sum up to a target sum,
 the function should return the numbers in any order.
 
 input_array = [3, 8, -10, 18, 5, 7, 1, 23]
