@@ -3,7 +3,7 @@ the function should take an array as input and return its product sum as output.
 if there are arrays nested in the array, their product sum should be calculated first, 
 as well as multiplied by the depth of the nested array.
 
-example: 
+Example: 
 the product sum of [1,[2,[3]]] is:
 1 + 2 * (2 + (3 * 3))
 '''
